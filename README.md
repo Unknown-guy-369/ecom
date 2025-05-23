@@ -67,4 +67,4 @@ Program:
 ```
 
 Output :
-![image](https://github.com/user-attachments/assets/96df1135-f44f-421e-adf7-beaed9aa0546)
+![image](https://github.com/user-attachments/assets/ed4c65ce-e03c-4c29-b37f-5ae6b5a9561f)
